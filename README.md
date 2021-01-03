@@ -1,16 +1,9 @@
 # flutter_stats
 
-A new Flutter project.
+A basic app that shows some stats. These stats would usually come from aggregating certain uses of the app, but some mock data is generated as the stats.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Create and link up your own Firebase project, then run the app on your chosen device. If there is no data, you will be able to generate some mock data. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
