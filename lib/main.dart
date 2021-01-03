@@ -29,7 +29,7 @@ class FlutterStatsApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Stats App',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primaryColor: Color(0xFF193484),
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: StatsScreen(),
